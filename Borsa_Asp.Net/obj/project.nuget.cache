@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mntej0Lflfc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavni\\source\\repos\\Borsa_Asp.Net\\Borsa_Asp.Net\\Borsa_Asp.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
